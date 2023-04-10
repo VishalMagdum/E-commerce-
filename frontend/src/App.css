@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    scroll-behavior: smooth;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[tpye="number"] {
+    -moz-appearance: textfield;
+}
+
+.redColor {
+    color: red !important;
+}
+
+.greenColor {
+    color: green !important;
+}

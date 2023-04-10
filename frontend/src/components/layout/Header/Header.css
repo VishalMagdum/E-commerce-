@@ -1,0 +1,11 @@
+.speedDail {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax
+}
+
+.speedDailIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+}
